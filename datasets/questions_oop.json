@@ -1,1 +1,505 @@
-
+[
+{
+  "understanding": [
+    {
+      "id": "q1",
+      "ano": "2025",
+      "banca": "Fundação Getúlio Vargas - FGV",
+      "prova": "FGV - DPE RO - Analista de Sistemas - 2025",
+      "enunciado": "Na programação orientada a objetos, princípios fundamentais desempenham um papel específico na construção de software modular, reutilizável e de fácil manutenção.\n\nCom base no exposto, o princípio que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum é",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "encapsulamento."
+        },
+        {
+          "letra": "B",
+          "texto": "polimorfismo."
+        },
+        {
+          "letra": "C",
+          "texto": "composição."
+        },
+        {
+          "letra": "D",
+          "texto": "abstração."
+        },
+        {
+          "letra": "E",
+          "texto": "herança."
+        }
+      ],
+      "respostaCorreta": "B"
+    },
+    {
+      "id": "q2",
+      "ano": "2025",
+      "banca": "Instituto Americano de Desenvolvimento - IADES",
+      "prova": "IADES - CRMV PI - Analista - Área: Suporte e Gestão da Tecnologia da Informação - 2025",
+      "enunciado": "Na programação orientada a objetos, um dos conceitos mais importantes é o de encapsulamento, essencial para garantir a segurança e a integridade dos dados. Esse recurso provê",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "restrição do acesso direto aos dados internos de um objeto, expondo apenas os métodos desejados para manipulá-los."
+        },
+        {
+          "letra": "B",
+          "texto": "capacidade de uma classe herdar atributos e métodos de outra classe."
+        },
+        {
+          "letra": "C",
+          "texto": "capacidade de um método se comportar de formas diferentes, de acordo com o objeto que o invoca."
+        },
+        {
+          "letra": "D",
+          "texto": "processo de criação de novas classes com base em classes existentes, sem alterações."
+        },
+        {
+          "letra": "E",
+          "texto": "técnica de dividir um programa em funções e procedimentos menores para facilitar o desenvolvimento."
+        }
+      ],
+      "respostaCorreta": "A"
+    },
+    {
+      "id": "q3",
+      "ano": "2024",
+      "banca": "Objetiva Concursos",
+      "prova": "Objetiva Concursos - FEAES - Analista de Sistemas - 2024",
+      "enunciado": "Na programação orientada a objetos, qual é a definição CORRETA de polimorfismo?",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Permite que uma classe herde atributos e métodos de outra classe. Isso promove a reutilização de código e cria uma hierarquia de classes."
+        },
+        {
+          "letra": "B",
+          "texto": "Permite que objetos de diferentes classes respondam de maneira semelhante a mensagens ou métodos. Isso promove a flexibilidade e a extensibilidade do sistema."
+        },
+        {
+          "letra": "C",
+          "texto": "É uma característica de um objeto que descreve seu estado."
+        },
+        {
+          "letra": "D",
+          "texto": "É o conceito de esconder os detalhes internos de uma classe e fornecer uma interface pública para interagir com o objeto. Isso promove a modularidade e o controle sobre o acesso aos atributos e métodos."
+        }
+      ],
+      "respostaCorreta": "B"
+    },
+    {
+      "id": "q4",
+      "ano": "2025",
+      "banca": "FCM",
+      "prova": "FCM - 2025 - Câmara de Viçosa - MG - Analista de Tecnologia da Informação",
+      "enunciado": "O que significa herança em Programação Orientada a Objetos?",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O reaproveitamento de código entre classes, onde uma classe base compartilha características com classes derivadas."
+        },
+        {
+          "letra": "B",
+          "texto": "O uso de métodos com o mesmo nome, mas com assinaturas diferentes."
+        },
+        {
+          "letra": "C",
+          "texto": "O armazenamento de atributos protegidos contra modificações externas."
+        },
+        {
+          "letra": "D",
+          "texto": "A exclusão automática de objetos que não estão mais em uso."
+        },
+        {
+          "letra": "E",
+          "texto": "A conversão de um tipo de objeto em outro tipo dentro do programa."
+        }
+      ],
+      "respostaCorreta": "A"
+    },
+    {
+      "id": "q5",
+      "ano": "2025",
+      "banca": "Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE",
+      "prova": "CESPE/CEBRASPE - BANRISUL - Desenvolvedor de Software - 2025",
+      "enunciado": "Acerca da programação orientada a objetos, assinale a opção correta.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A classe é a estrutura que define os atributos e comportamentos dos objetos."
+        },
+        {
+          "letra": "B",
+          "texto": "Toda linguagem de programação define automaticamente todas as classes necessárias em tempo de compilação."
+        },
+        {
+          "letra": "C",
+          "texto": "Um objeto não pode ser instanciado a partir de uma classe."
+        },
+        {
+          "letra": "D",
+          "texto": "A classe representa uma instância específica de um objeto."
+        },
+        {
+          "letra": "E",
+          "texto": "Atributos e métodos são definidos apenas no objeto, não na classe."
+        }
+      ],
+      "respostaCorreta": "A"
+    },
+    {
+      "id": "q6",
+      "ano": "2025",
+      "banca": "Instituto de Desenvolvimento Social e Tecnologia - IDESG",
+      "prova": "IDESG - ES - Analista de Tecnologia da Informação - Área Sistemas de Informação - 2025",
+      "enunciado": "Recurso indispensável e amplamente utilizado nas linguagens de programação orientadas a objetos (POO), sendo este recurso responsável por permitir que objetos de diferentes classes sejam tratados de forma uniforme, desde que essas classes compartilhem um relacionamento hierárquico. Qual é o nome deste recurso?",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Encapsulamento."
+        },
+        {
+          "letra": "B",
+          "texto": "Polimorfismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Classe Abstrata."
+        },
+        {
+          "letra": "D",
+          "texto": "Acoplamento."
+        }
+      ],
+      "respostaCorreta": "B"
+    }
+  ]},
+  {
+  "analysis": [
+    {
+      "id": "q7",
+      "ano": "2017",
+      "banca": "FUNCERN",
+      "prova": "FUNCERN - 2017 - IF-RN - Professor - Sistemas de Informação",
+      "enunciado": "Analise o seguinte código escrito em Python, que define a estrutura da classe ContaBancaria:\n\n```python\nclass ContaBancaria:\n    num_contas = 0\n    def __init__(self, agencia, numero, saldo):\n        self.agencia = agencia\n        self.numero = numero\n        self.saldo = saldo\n        ContaBancaria.num_contas += 1\n    def __del__(self):\n        ContaBancaria.num_contas -= 1\n    def depositar(self, valor):\n        self.saldo = self.saldo + valor\n    def sacar(self, valor):\n        self.saldo = self.saldo - valor\n    def consultarSaldo(self):\n        return self.saldo\n```\n\nSobre a classe acima e as regras de programação orientada a objetos em Python, a",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "criação de objetos chama primeiro o método __init__() e, em seguida, o __new__()."
+        },
+        {
+          "letra": "B",
+          "texto": "palavra self deve ser fornecida como argumento em todos os métodos de instâncias."
+        },
+        {
+          "letra": "C",
+          "texto": "variável num_contas é encapsulada e individual para cada instância da classe."
+        },
+        {
+          "letra": "D",
+          "texto": "palavra @static escrita antes da definição do método sacar() torna o método estático."
+        }
+      ],
+      "respostaCorreta": "B"
+    },
+    {
+      "id": "q8",
+      "ano": "2016",
+      "banca": "COMPERVE - UFRN",
+      "prova": "COMPERVE - 2016 - UFRN - Técnico de Tecnologia da Informação",
+      "enunciado": "Sobre a implementação de conceitos de programação orientada a objetos na linguagem Python, é correto afirmar:",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "para construir uma hierarquia de classes, deve-se passar como parâmetro na definição da classe o construtor self."
+        },
+        {
+          "letra": "B",
+          "texto": "ao aplicar o conceito de encapsulamento, não se deve declarar os métodos get/set como única estratégia de exposição dos atributos."
+        },
+        {
+          "letra": "C",
+          "texto": "uma classe que implementa uma interface não é obrigada a implementar todos os métodos definidos na interface."
+        },
+        {
+          "letra": "D",
+          "texto": "para definir um construtor em uma classe em Python, utiliza-se o método especial __init__, passando como parâmetro a referência da classe."
+        }
+      ],
+      "respostaCorreta": "D"
+    },
+    {
+      "id": "q9",
+      "ano": "2025",
+      "banca": "Universidade do Extremo Sul Catarinense - UNESC",
+      "prova": "UNESC - FESPORTE - Analista de Informática - 2025",
+      "enunciado": "Para responder à questão, analise o código a seguir, escrito em uma linguagem de programação que utiliza o paradigma de orientação a objetos:\n\n```java\nclass Animal {\n    public String nome;\n    public int idade;\n\n    public void emitirSom() {\n        System.out.println(\"Som genérico de animal\");\n    }\n}\n\nclass Cachorro extends Animal {\n    public void emitirSom() {\n        System.out.println(\"Au au!\");\n    }\n}\n\nclass Gato extends Animal {\n    public void emitirSom() {\n        System.out.println(\"Miau!\");\n    }\n}\n```\n\nCom base na análise do código e nos seus conhecimentos sobre programação orientada a objetos, selecione a alternativa correta.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "As classes Cachorro e Gato herdam os atributos nome e idade da classe Animal, mas não herdam o método emitirSom()."
+        },
+        {
+          "letra": "B",
+          "texto": "O código demonstra o conceito de abstração, pois a classe Animal define um método abstrato emitirSom()."
+        },
+        {
+          "letra": "C",
+          "texto": "A classe Animal é uma subclasse das classes Cachorro e Gato."
+        },
+        {
+          "letra": "D",
+          "texto": "O código demonstra o conceito de encapsulamento, pois os atributos nome e idade são declarados como públicos."
+        },
+        {
+          "letra": "E",
+          "texto": "O método emitirSom() nas classes Cachorro e Gato sobrescreve o método emitirSom() da classe Animal, demonstrando o conceito de polimorfismo."
+        }
+      ],
+      "respostaCorreta": "E"
+    },
+    {
+      "id": "q10",
+      "ano": "2025",
+      "banca": "Instituto Access",
+      "prova": "Instituto Access - 2025 - UFAC - Analista de Tecnologia da Informação",
+      "enunciado": "No contexto do desenvolvimento orientado a objetos em Python, um Analista de Tecnologia da Informação implementa um recurso para modificar dinamicamente a criação de classes com base em padrões internos do sistema. Para isso, ele decide usar metaprogramação. Assinale a alternativa correta que corresponde a qual abordagem é adequada para aplicar esse controle.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Criar uma função decoradora para alterar atributos da instância."
+        },
+        {
+          "letra": "B",
+          "texto": "Definir uma metaclasse com type e sobrescrever o método __new__."
+        },
+        {
+          "letra": "C",
+          "texto": "Instanciar a superclasse e sobrescrever o método __init__."
+        },
+        {
+          "letra": "D",
+          "texto": "Implementar polimorfismo entre métodos usando duck typing nativo."
+        },
+        {
+          "letra": "E",
+          "texto": "Utilizar __call__ em objetos e definir múltiplas heranças."
+        }
+      ],
+      "respostaCorreta": "B"
+    },
+    {
+      "id": "q11",
+      "ano": "2024",
+      "banca": "Instituto Verbena",
+      "prova": "Instituto Verbena - IFSE - Técnico de Tecnologia da Informação - Desenvolvimento de Sistemas - 2024",
+      "enunciado": "Leia o caso a seguir.\n\nUm desenvolvedor criou uma classe abstrata chamada “Pessoa” e criou as classes “Discente” e “Docente”, ambas filhas da classe “Pessoa”. Criou também um método para calcular o tempo de vínculo acadêmico nas três classes. Este método foi criado com o mesmo nome e assinatura nas três classes, porém com implementações diferentes em relação ao algoritmo e dados para os cálculos.\n\nQual conceito foi utilizado durante o desenvolvimento relatado neste cenário?",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Polimorfismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Baixo acoplamento."
+        },
+        {
+          "letra": "C",
+          "texto": "Alta coesão."
+        },
+        {
+          "letra": "D",
+          "texto": "Encapsulamento."
+        }
+      ],
+      "respostaCorreta": "A"
+    },
+    {
+      "id": "q12",
+      "ano": "2023",
+      "banca": "IDECAN",
+      "prova": "IDECAN - 2023 - SEFAZ-RR - Desenvolvedor de Software",
+      "enunciado": "É praticamente impossível falar em orientação a objetos sem relacioná-la ao conceito de classes. Analise o seguinte código e selecione a alternativa que mostra a relação entre as duas classes\n\n```python\n1 class Veiculo:\n2   def __init__(self, tipo, chassi, marca, modelo, ano):\n3     self.tipo = tipo\n4     self.chassi = chassi\n5     self.marca = marca\n6     self.modelo = modelo\n7     self.ano = ano\n8 class Motocicleta(Veiculo):\n9   def __init__(self, tipo, chassi, marca, modelo, ano, cilindrada):\n10    super().__init__(tipo, chassi, marca, modelo, ano)\n11    self.cilindrada = cilindrada\n```",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Polimorfismo"
+        },
+        {
+          "letra": "B",
+          "texto": "Atributos"
+        },
+        {
+          "letra": "C",
+          "texto": "Métodos"
+        },
+        {
+          "letra": "D",
+          "texto": "Encapsulamento"
+        },
+        {
+          "letra": "E",
+          "texto": "Herança"
+        }
+      ],
+      "respostaCorreta": "E"
+    }
+  ]
+  },
+  {
+  "implementation": [
+    {
+      "id": "q13",
+      "ano": "2023",
+      "banca": "CESPE / CEBRASPE",
+      "prova": "CESPE / CEBRASPE - 2023 - SEFIN de Fortaleza - CE - Analista Fazendário Municipal - Área de Conhecimento: Ciência da Computação, Informática/Processamento de Dados",
+      "enunciado": "Julgue o item que se segue, a respeito de Python, Java e orientação a objetos.\n\nO resultado da execução do código em Python a seguir será Meu nome é Garfield.\n\n```python\nclass Animal:\n\n    nome = \"\"\n\n    def patas(self):\n\n        print(\"Tenho quatro patas\")\n\nclass Gato(Animal):\n\n    def display(self):\n\n        print(\"Meu nome é\", self.nome)\n\ngarfield = Gato()\n\ngarfield.nome = \"Garfield\"\n\ngarfield.patas()\n\ngarfield.display()\n```",
+      "opcoes": [
+        {
+          "letra": "Certo",
+          "texto": "Certo"
+        },
+        {
+          "letra": "Errado",
+          "texto": "Errado"
+        }
+      ],
+      "respostaCorreta": "Errado"
+    },
+    {
+      "id": "q14",
+      "ano": "2019",
+      "banca": "COMPERVE - UFRN",
+      "prova": "COMPERVE - 2019 - UFRN - Técnico de Tecnologia da Informação",
+      "enunciado": "Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos, funcional, de tipagem dinâmica e forte. Levando isso em conta, analise o código em Python abaixo.\n\n```python\ndef e(b):\n    a = b*b\n    return a\n\na = 10\ne(a)\ne(a)\nprint(e(a))\n```\n\nNesse caso, ao executar o programa, o valor impresso será",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1000."
+        },
+        {
+          "letra": "B",
+          "texto": "10."
+        },
+        {
+          "letra": "C",
+          "texto": "100."
+        },
+        {
+          "letra": "D",
+          "texto": "10000."
+        }
+      ],
+      "respostaCorreta": "C"
+    },
+    {
+      "id": "q15",
+      "ano": 2025,
+      "banca": "Fundação Carlos Chagas - FCC",
+      "prova": "FCC - TRT 1 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Tecnologia da Informação - 2025",
+      "enunciado": "No contexto da orientação a objetos em Python, considere um sistema de gestão de funcionários de um Tribunal. Um gestor com cargo de confiança tem um salário base e um bônus, enquanto um funcionário comum tem apenas um salário base. O cálculo do salário total considera esses aspectos, garantindo encapsulamento e reutilização de código. Sabendo que `f1` representa uma instância de uma classe que pode ser um funcionário comum ou um gestor, a maneira correta de calcular o salário total de um gestor, usando herança e polimorfismo, é:",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "print(f1)"
+        },
+        {
+          "letra": "B",
+          "texto": "salarioBase.f1 + bonus.f1"
+        },
+        {
+          "letra": "C",
+          "texto": "f1.calcularSalario()"
+        },
+        {
+          "letra": "D",
+          "texto": "Gestor.calcularSalario(f1)"
+        },
+        {
+          "letra": "E",
+          "texto": "super.calcularSalario()"
+        }
+      ],
+      "respostaCorreta": "C"
+    },
+    {
+      "id": "q16",
+      "ano": 2025,
+      "banca": "FUNDATEC",
+      "prova": "FUNDATEC - 2025 - IF Sul - MG - PEBTT - Informática",
+      "enunciado": "Considerando o código Python:\n\n```python\nclass Retangulo:\n    def __init__(self):\n        self.__altura = 0\n        self.__largura = 0\n\n    def getAltura(self):\n        return self.__altura\n\n    def setAltura(self, a):\n        self.__altura = a\n\n    def getLargura(self):\n        return self.__largura\n\n    def setLargura(self, l):\n        self.__largura = l\n\n    def calculaArea(self):\n        return self.__altura * self.__largura\n\n    def calculaPerimetro(self):\n        return 2 * self.__altura + 2 * self.__largura\n\nclass Main:\n    @staticmethod\n    def main():\n        # criar um objeto a partir da classe Retangulo\n        # chamar o método para receber a altura do retângulo\n        # chamar o método para receber a largura do retângulo\n        # chamar o método para o cálculo da área\n        # chamar o método para o cálculo do perímetro\n        pass\n```\n\nA forma correta de se criar um objeto (instanciar) a partir da classe `Retangulo` é:",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "def meuRetangulo = Retangulo()"
+        },
+        {
+          "letra": "B",
+          "texto": "meuRetangulo = Retangulo"
+        },
+        {
+          "letra": "C",
+          "texto": "new meuRetangulo = Retangulo()"
+        },
+        {
+          "letra": "D",
+          "texto": "meuRetangulo = Retangulo()"
+        }
+      ],
+      "respostaCorreta": "D"
+    },
+    {
+      "id": "q17",
+      "ano": 2025,
+      "banca": "FUNDATEC",
+      "prova": "FUNDATEC - 2025 - IF Sul - MG - PEBTT - Informática",
+      "enunciado": "Considerando o código Python:\n\n```python\nclass Retangulo:\n    def __init__(self):\n        self.__altura = 0\n        self.__largura = 0\n\n    def getAltura(self):\n        return self.__altura\n\n    def setAltura(self, a):\n        self.__altura = a\n\n    def getLargura(self):\n        return self.__largura\n\n    def setLargura(self, l):\n        self.__largura = l\n\n    def calculaArea(self):\n        return self.__altura * self.__largura\n\n    def calculaPerimetro(self):\n        return 2 * self.__altura + 2 * self.__largura\n\nclass Main:\n    @staticmethod\n    def main():\n        # ... (comentários omitidos)\n        pass\n```\n\nA forma correta de informar a altura e a largura do objeto `meuRetangulo` (que segue os princípios de encapsulamento do código original) para que sua área e perímetro sejam calculados é:",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "meuRetangulo.setAltura = 10.0\nmeuRetangulo.setLargura = 20.0"
+        },
+        {
+          "letra": "B",
+          "texto": "meuRetangulo.setAltura(10.0)\nmeuRetangulo.setLargura(20.0)"
+        },
+        {
+          "letra": "C",
+          "texto": "meuRetangulo.getAltura(10.0)\nmeuRetangulo.getLargura(20.0)"
+        },
+        {
+          "letra": "D",
+          "texto": "meuRetangulo.getAltura = 10.0\nmeuRetangulo.getLargura = 20.0"
+        }
+      ],
+      "respostaCorreta": "B"
+    },
+    {
+      "id": "q18",
+      "ano": 2025,
+      "banca": "FUNDATEC",
+      "prova": "FUNDATEC - 2025 - IF Sul - MG - PEBTT - Informática",
+      "enunciado": "Considerando o código Python:\n\n```python\nclass Retangulo:\n    def __init__(self):\n        self.__altura = 0\n        self.__largura = 0\n\n    def getAltura(self):\n        return self.__altura\n\n    def setAltura(self, a):\n        self.__altura = a\n\n    def getLargura(self):\n        return self.__largura\n\n    def setLargura(self, l):\n        self.__largura = l\n\n    def calculaArea(self):\n        return self.__altura * self.__largura\n\n    def calculaPerimetro(self):\n        return 2 * self.__altura + 2 * self.__largura\n\nclass Main:\n    @staticmethod\n    def main():\n        # ... (comentários omitidos)\n        pass\n```\n\nA forma correta de solicitar a área e o perímetro do retângulo através dos métodos do objeto `meuRetangulo` é:",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "print(f\"Área: {calculaArea()}\")\nprint(f\"Perímetro: {calculaPerimetro()}\")"
+        },
+        {
+          "letra": "B",
+          "texto": "print(f\"Área: {meuRetangulo.calculaArea()}\")\nprint(f\"Perímetro: {meuRetangulo.calculaPerimetro()}\")"
+        },
+        {
+          "letra": "C",
+          "texto": "print(f\"Área: {Retangulo().calculaArea()}\")\nprint(f\"Perímetro: {Retangulo().calculaPerimetro()}\")"
+        },
+        {
+          "letra": "D",
+          "texto": "print(f\"Área: {meuRetangulo.calculaArea(10.0, 20.0)}\")\nprint(f\"Perímetro: {meuRetangulo.calculaPerimetro(10.0, 20.0)}\")"
+        }
+      ],
+      "respostaCorreta": "B"
+    }
+  ]
+}
+]
