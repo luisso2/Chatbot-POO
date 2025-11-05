@@ -28,6 +28,7 @@ Propõe-se a implementação de um sistema multiagentes que atuará como aluno n
 | Entrega I | 30 de outubro | Plano de trabalho |
 | Entrega II | 06 de novembro | Dataset de validação |
 | Entrega III | 13 de novembro | Reflect-Response e Validação |
+| Entrega final | 27 de novembro | Interface gráfica com Mode-Shifting |
 
 ## Referências
 [1]	H. Jin, S. Lee, H. Shin, and J. Kim, "Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education," in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Honolulu, HI, USA, 2024, Art. no. 652. doi: 10.1145/3613904.3642349.
