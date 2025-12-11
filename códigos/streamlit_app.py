@@ -15,7 +15,6 @@ from langgraph.checkpoint.memory import MemorySaver
 # ATENÇÃO: Use a biblioteca local da sua LLM, ou defina-a.
 # No seu notebook, você usou ChatOpenAI.
 from langchain_openai import ChatOpenAI 
-from langchain_huggingface import HuggingFaceEmbeddings
 
 # =========================================================
 # I. Configuração e Inicialização (Fora do Grafo)
@@ -260,3 +259,4 @@ if prompt := st.chat_input("👨‍🏫 Professor: Digite sua lição ou pergunt
 
 
 # --- FIM ---
+
