@@ -15,7 +15,6 @@ from langgraph.checkpoint.memory import MemorySaver
 # ATENÇÃO: Use a biblioteca local da sua LLM, ou defina-a.
 # No seu notebook, você usou ChatOpenAI.
 from langchain_openai import ChatOpenAI 
-from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
 # =========================================================
@@ -258,5 +257,6 @@ if prompt := st.chat_input("👨‍🏫 Professor: Digite sua lição ou pergunt
 
     # Força o Streamlit a re-executar e mostrar o novo estado
     st.rerun()
+
 
 # --- FIM ---
