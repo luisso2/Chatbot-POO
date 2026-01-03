@@ -1,5 +1,7 @@
 streamlit
-openai
 langchain-openai
 langgraph
+langchain-community
+langchain-huggingface
+faiss-cpu
 pydantic
