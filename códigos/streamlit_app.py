@@ -150,7 +150,7 @@ def agent_node(state: AgentState):
 
 @st.cache_resource
 def setup_langgraph_app():
-    """Configura o workflow do LangGraph uma única vez."""
+    #"""Configura o workflow do LangGraph uma única vez."""
     workflow = StateGraph(AgentState)
     workflow.add_node("agent", agent_node)
     workflow.set_entry_point("agent")
@@ -434,4 +434,5 @@ if prompt := st.chat_input("👨‍🏫 Professor: Digite sua lição ou pergunt
 
 
 # --- FIM ---
+
 
