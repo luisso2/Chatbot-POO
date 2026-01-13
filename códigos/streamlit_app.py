@@ -220,7 +220,7 @@ st.sidebar.button("🔄 Iniciar Nova Conversa", on_click=reset_conversation)
 
 # --- 1. Exibição da Conversa (Ocupa a largura total) ---
 
-st.subheader("Conversa com Luís (Agente Aluno)")
+#st.subheader("Conversa com Luís (Agente Aluno)")
 # Renderiza o histórico de mensagens
 for message in all_messages:
     if isinstance(message, HumanMessage):
@@ -250,7 +250,7 @@ if prompt := st.chat_input("Digite sua lição ou pergunta."):
     inputs = {"messages": [HumanMessage(content=prompt)]}
     
     # Invoca o LangGraph
-    with st.spinner("🤖 Luís está pensando..."):
+    with st.spinner("🤖 PyPOO está pensando..."):
         # A invocação já atualiza o estado via MemorySaver
         app.invoke(inputs, config=config)
 
@@ -258,5 +258,6 @@ if prompt := st.chat_input("Digite sua lição ou pergunta."):
     st.rerun()
 
 # --- FIM ---.
+
 
 
