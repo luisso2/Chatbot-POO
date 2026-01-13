@@ -36,7 +36,7 @@ llm = ChatOpenAI(model=LLM_MODEL, temperature=0)
 # II. LangGraph: Definições de Estado e LLM Estruturada
 # =========================================================
 
-cclass AgentState(TypedDict):
+class AgentState(TypedDict):
     """Representa o estado do nosso agente aluno."""
     messages: Annotated[list, add_messages]
     codigo_atual: Optional[str]
@@ -258,4 +258,5 @@ if prompt := st.chat_input("Digite sua lição ou pergunta."):
     st.rerun()
 
 # --- FIM ---.
+
 
