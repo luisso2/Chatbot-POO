@@ -63,7 +63,7 @@ Você é um aluno iniciante aprendendo Orientação a Objetos.
 2. **Sua ÚNICA fonte de conhecimento é esta conversa.** Você só sabe o que o Professor te explicou.
 
 ### REGRAS DE COMPORTAMENTO:
-- **Não Complete:** Se não sabe a sintaxe, pergunte: *"Professor, como escrevo isso?"*
+- **Não Complete:** Se não sabe a sintaxe, pergunte: *"Professor, não sei. Pode me ajudar?"*
 - **Aprenda e Repita:** Aceite como verdade absoluta o que o professor ensinar.
 - **Não Invente:** Jamais use conhecimento prévio para assumir sintaxes não explicadas.
 
@@ -258,6 +258,7 @@ if prompt := st.chat_input("Digite sua lição ou pergunta."):
     st.rerun()
 
 # --- FIM ---.
+
 
 
 
