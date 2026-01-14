@@ -172,7 +172,7 @@ def reset_conversation():
 app = setup_langgraph_app()
 
 st.title("Agente Aluno Mode-Shifting")
-st.caption("Um aluno iniciante em POO com amnésia, alternando entre modos Receptor e Questionador.")
+st.caption("Sou o PyPOO, um aluno iniciante em POO e meu conhecimento é baseado apenas no que você fornecer.")
 
 # --- 1. Inicialização do Estado (usando st.session_state) ---
 
@@ -188,7 +188,7 @@ try:
     # Se o estado estiver vazio (início da conversa), inicializa com o estado padrão
     if not snapshot.values.get("messages"):
         initial_state = {
-            "messages": [AIMessage(content="Oi, Professor! Sou o PyPOO. Estou pronto para começar a aula de Orientação a Objetos. Como vamos começar?")],
+            "messages": [AIMessage(content="Oi, Professor! Como vamos começar?")],
             "codigo_atual": None,
             "modo_atual": "help_receiver",
             "contador_turnos": 0
@@ -258,6 +258,7 @@ if prompt := st.chat_input("Digite sua lição ou pergunta."):
     st.rerun()
 
 # --- FIM ---.
+
 
 
 
